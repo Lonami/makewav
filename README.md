@@ -1,3 +1,7 @@
+Moved to https://codeberg.org/Lonami/makewav. The GitHub repository may be deleted in the future.
+
+---
+
 # makewav
 
 A tiny program to generate simple sounds you can add to soundless recordings.
